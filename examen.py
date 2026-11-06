@@ -1,0 +1,10 @@
+input("cual es tu nombre: ")
+input("cuantos años tienes: ")
+input("cual es tu comida favorita: ")
+input("cual es tu animal favorito: ")
+print("hola",a)
+print("tienes"b"años,que bueno.")
+print("A mi tambien me gusta",c,"es muy rico.")
+print("mi color favorito es",d)
+print("tu animal favorito es el",e)
+
